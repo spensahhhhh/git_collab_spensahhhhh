@@ -33,7 +33,11 @@ Ann is creating a conflict for resolution
 
 ### Merge Conflict: Collaborator Resolves
 
+
 I'm not really big on chicken alfredo
+
+I'm really only here to cause conflicts, truthfully
+
 
 ## Summary: How to Avoid Merge Conflicts
 
