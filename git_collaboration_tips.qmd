@@ -11,9 +11,11 @@ format: html
 
 <Owner adds their tips here!>
 
-### Tips: <collaborator's name here>
+### Tips: Ann Holmes
 
-<Collaborator adds their tips here!>
+1. Communicate and coordinate
+2. Enjoy the process
+3. Supplement with caffeince when necessary
 
 ## How to Create a Merge Conflict 
 
