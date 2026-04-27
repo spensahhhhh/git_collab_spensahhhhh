@@ -1,0 +1,30 @@
+---
+title: "Git Collaboration Tips"
+author: "Spencer Fern & Ann Holmes"
+format: html
+---
+
+
+## Git Collaboration Tips
+
+### Tips: <owner's name here>
+
+<Owner adds their tips here!>
+
+### Tips: <collaborator's name here>
+
+<Collaborator adds their tips here!>
+
+## How to Create a Merge Conflict 
+
+### Merge Conflict: Owner Resolves
+
+<Owner and Collaborator edit the same line here to create a conflict! - COLLABORATOR commits-pulls-pushes first>
+
+### Merge Conflict: Collaborator Resolves
+
+<Owner and Collaborator edit the same line here to create a conflict! - OWNER commits-pulls-pushes first>
+
+## Summary: How to Avoid Merge Conflicts
+
+<Owner and Collaborator use best practices to write some concluding tips here!>
