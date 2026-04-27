@@ -33,7 +33,7 @@ Ann is creating a conflict for resolution
 
 ### Merge Conflict: Collaborator Resolves
 
-<Owner and Collaborator edit the same line here to create a conflict! - OWNER commits-pulls-pushes first>
+I'm not really big on chicken alfredo
 
 ## Summary: How to Avoid Merge Conflicts
 
