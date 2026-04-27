@@ -25,7 +25,7 @@ Stay hydrated and well-fed to avoid burnout
 
 ### Merge Conflict: Owner Resolves
 
-<Owner and Collaborator edit the same line here to create a conflict! - COLLABORATOR commits-pulls-pushes first>
+I'm a big fan of chicken alfredo
 
 ### Merge Conflict: Collaborator Resolves
 
