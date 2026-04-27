@@ -7,9 +7,13 @@ format: html
 
 ## Git Collaboration Tips
 
-### Tips: <owner's name here>
+### Tips: Spencer
 
-<Owner adds their tips here!>
+Communicate regularly
+
+Avoid conflicts (both in git and real life)
+
+Stay hydrated and well-fed to avoid burnout
 
 ### Tips: <collaborator's name here>
 
