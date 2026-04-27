@@ -25,7 +25,7 @@ Stay hydrated and well-fed to avoid burnout
 
 ### Merge Conflict: Owner Resolves
 
-<Owner and Collaborator edit the same line here to create a conflict! - COLLABORATOR commits-pulls-pushes first>
+Ann is creating a conflict for resolution 
 
 ### Merge Conflict: Collaborator Resolves
 
