@@ -25,7 +25,11 @@ Stay hydrated and well-fed to avoid burnout
 
 ### Merge Conflict: Owner Resolves
 
+
 I'm a big fan of chicken alfredo
+
+Ann is creating a conflict for resolution 
+
 
 ### Merge Conflict: Collaborator Resolves
 
